@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="me.chaoe.sdutnew"
     android:versionCode="20200623"
-    android:versionName="1.00" >
+    android:versionName="1.03" >
 
     <uses-sdk
         android:minSdkVersion="23"

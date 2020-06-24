@@ -8,5 +8,5 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "me.chaoe.sdutnew";
   public static final String BUILD_TYPE = "debug";
   public static final int VERSION_CODE = 20200623;
-  public static final String VERSION_NAME = "1.00";
+  public static final String VERSION_NAME = "1.03";
 }
