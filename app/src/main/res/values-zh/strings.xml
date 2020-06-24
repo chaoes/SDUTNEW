@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">山理工新闻</string>
+    <string name="url">https://lgwindow.sdut.edu.cn</string>
+    <string name="new1">理工要闻</string>
+    <string name="new2">综合新闻</string>
+    <string name="new3">院部传真</string>
+    <string name="new4">科学科研</string>
+</resources>

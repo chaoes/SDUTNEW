@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDUTNEW</string>
+    <string name="url">https://lgwindow.sdut.edu.cn</string>
+    <string name="new1">board1</string>
+    <string name="new2">board2</string>
+    <string name="new3">board3</string>
+    <string name="new4">board4</string>
+</resources>

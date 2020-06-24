@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "me.chaoe.sdutnew",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 20200623,
+        "versionName": "1.00",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "me.chaoe.sdutnew",
+        "split": "",
+        "minSdkVersion": "23"
+      }
+    }
+  ]
+}
